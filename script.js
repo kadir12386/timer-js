@@ -1,4 +1,4 @@
-const countDate = new Date("Jun 8, 2022 00:00:00:").getTime();
+const countDate = new Date("Jun 10, 2022 00:00:00").getTime();
 console.log(countDate);
 
 function newYear() {
